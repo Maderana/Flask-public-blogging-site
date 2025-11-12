@@ -229,12 +229,11 @@ Maderana - [My GitHub Profile](https://github.com/Maderana)
 ## 🙏 Acknowledgments
 
 - Flask documentation and community
-- Glassmorphism design inspiration
 - Markdown and Pygments libraries
 
 ## 📞 Support
 
-For support, please open an issue on GitHub or contact [your-email@example.com]
+For support, please open an issue on GitHub or contact [maderana007@gmail.com]
 
 ---
 
