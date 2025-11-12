@@ -224,7 +224,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Maderana - [My GitHub Profile](https://github.com/Maderana)
 
 ## 🙏 Acknowledgments
 
